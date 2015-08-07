@@ -1,0 +1,10 @@
+table, tr {
+	width: 1200px;
+}
+table, th, td {
+   border: 1px solid black;
+}
+.cell {
+	height: 100px;
+	width: 60px;
+}
